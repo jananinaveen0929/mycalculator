@@ -1,0 +1,45 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file
+local.properties
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# External native build folder
+.externalNativeBuild
+.cxx/
+
+# MacOS
+.DS_Store
+
+# Build Outputs
+*/build/
+app/build/
+
+# Reports and HTML
+**/reports/
+**/test-results/
